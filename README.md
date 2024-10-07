@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m @Bagavathi
 - 🌱 I’m currently learning linux system and embedded system .
-- 💞️ I’m looking to collaborate on innovative embedded systems projects and advanced deep learning models for medical imaging.
+- 💞️ I’m looking to collaborate on innovative embedded systems projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bagavathipalanisamy) | [Email](mailto:bagavathipalanisamy11.com)
 
 ---
